@@ -1,0 +1,3 @@
+Hello there!
+How are you today?
+welcome to this pyhton classS
